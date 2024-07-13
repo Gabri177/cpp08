@@ -64,6 +64,7 @@
 		"algorithm": "cpp",
 		"stack": "cpp",
 		"deque": "cpp",
-		"span": "cpp"
+		"span": "cpp",
+		"*.tpp": "cpp"
 	}
 }
